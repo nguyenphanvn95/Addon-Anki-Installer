@@ -18,10 +18,10 @@
 
 ```
 AnkiAddonInstaller/
-├── install_addons.exe        ← File chạy chính
+├── Anki Addon Installer.exe        ← File chạy chính
 └── addons_to_copy/           ← Thư mục chứa các addon cần cài
-    ├── Addon1/                      : các addon
-    └── Addon2/
+    ├── Addon1/                    ← các addon
+    └── Addon2/			← các addon
 ```
 
 ---
